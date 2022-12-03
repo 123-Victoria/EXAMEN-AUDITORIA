@@ -10,7 +10,7 @@
                         <div class="widget">
                             <header class="widget-header">
                                 <h4 class="widget-title">Cerrar día</h4>
-                            </header><!-- .widget-header -->
+                                <h4 class="widget-title">Nombre:Victoria Mamani Cornejo C.I:9242315</h4>                           </header><!-- .widget-header -->
                             <hr class="widget-separator">
                             <div class="widget-body">
                                 <form method="POST" action="{{url('supervisor/close')}}/{{$user->id}}" enctype="multipart/form-data">

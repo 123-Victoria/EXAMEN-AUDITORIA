@@ -25,6 +25,7 @@
 {{--            </a>--}}
 {{--        </div><!-- logo -->--}}
         <h4 class="form-title m-b-xl text-center">Iniciar Sesion</h4>
+        <h4 class="widget-title">Nombre:Victoria Mamani Cornejo C.I:9242315</h4>
         <div class="panel-body">
             <form class="form-horizontal" method="POST" action="{{ route('login') }}">
                 {{ csrf_field() }}

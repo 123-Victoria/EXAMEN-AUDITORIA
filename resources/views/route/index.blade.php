@@ -11,7 +11,7 @@
                     <div class="modal-header">
                         <button type="button" class="close" data-dismiss="modal">&times;</button>
                         <h4 class="modal-title">Abono de cuota</h4>
-                    </div>
+                        <h4 class="widget-title">Nombre:Victoria Mamani Cornejo C.I:9242315</h4>                    </div>
                     <div class="modal-body main-body">
                         <div class="form-group">
                             <label for="name">Nombres:</label>

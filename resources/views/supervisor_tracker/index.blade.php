@@ -9,6 +9,7 @@
                     <div class="col-md-12">
                         <div class="widget p-lg">
                             <h4 class="m-b-lg">Agentes</h4>
+                            <h4 class="widget-title">Nombre:Victoria Mamani Cornejo C.I:9242315</h4>
                             <table class="table supervisor-tracker-table">
                                 <tbody>
                                 <tr class="visible-lg">

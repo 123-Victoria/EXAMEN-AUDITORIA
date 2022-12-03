@@ -10,6 +10,7 @@
 
                         <div class="widget p-lg">
                             <h4 class="m-b-lg">Cartera</h4>
+                            <h4 class="widget-title">Nombre:Victoria Mamani Cornejo C.I:9242315</h4>
                             <table class="table supervisor-cash-table">
                                 <tbody>
                                 <tr class="visible-lg">

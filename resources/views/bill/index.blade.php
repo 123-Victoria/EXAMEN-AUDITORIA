@@ -9,6 +9,7 @@
                     <div class="col-md-12">
                         <div class="widget p-lg">
                             <h4 class="m-b-lg">Gastos</h4>
+                            <h4 class="widget-title">Nombre:Victoria Mamani Cornejo C.I:9242315</h4>
                             <form class="form-inline" action="{{url('bill')}}" method="GET">
                                 <div class="form-group hidden">
                                     <label for="nit_number"> Fecha Inicial:</label>
