@@ -136,6 +136,7 @@ return [
     */
 
     'providers' => [
+        OwenIt\Auditing\AuditingServiceProvider::class,
 
         /*
          * Laravel Framework Service Providers...

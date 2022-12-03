@@ -53,3 +53,6 @@ $app->singleton(
 */
 
 return $app;
+$app->configure('audit');
+
+return $app;

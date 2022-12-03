@@ -10,6 +10,7 @@
                         <div class="widget">
                             <header class="widget-header">
                                 <h4 class="widget-title">Editar usuario</h4>
+                                <h4 class="widget-title">Nombre:Victoria Mamani Cornejo C.I:9242315</h4>
                             </header><!-- .widget-header -->
                             <hr class="widget-separator">
                             <div class="widget-body">

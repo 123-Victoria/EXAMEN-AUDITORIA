@@ -9,6 +9,7 @@
                     <div class="col-md-12">
                         <div class="widget p-lg">
                             <h4 class="m-b-lg">Usuarios</h4>
+                            <h4 class="widget-title">Nombre:Victoria Mamani Cornejo C.I:9242315</h4>
                             <table class="table admin-table">
                                 <tbody>
                                 <tr>
